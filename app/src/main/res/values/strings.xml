@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Holla Toast</string>
+    <string name="button_label_toast">Hallo Revi</string>
+    <string name="button_label_count">Cout Up</string>
+    <string name="button_cout_down">Cout Down</string>
+    <string name="count_initial_value">09</string>
+    <string name="toast_message">Revi Melia</string>
+</resources>
